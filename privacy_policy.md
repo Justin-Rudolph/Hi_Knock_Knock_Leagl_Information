@@ -54,7 +54,7 @@ Processing your Personal Information depends on how you interact with the Mobile
 
 Note that under some legislations we may be allowed to process information until you object to such processing by opting out, without having to rely on consent or any other of the legal bases. In any case, we will be happy to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Information is a statutory or contractual requirement, or a requirement necessary to enter into a contract.
 
-###Managing information
+### Managing information
 -----------
 
 You are able to delete certain Personal Information we have about you. The Personal Information you can delete may change as the Mobile Application and Services change. When you delete Personal Information, however, we may maintain a copy of the unrevised Personal Information in our records for the duration necessary to comply with our obligations to our affiliates and partners, and for the purposes described below. If you would like to delete your Personal Information or permanently delete your account, you can do so on the settings page of your account in the Mobile Application.
@@ -68,7 +68,7 @@ Service Providers are not authorized to use or disclose your information except 
 
 We may also disclose any Personal Information we collect, use or receive if required or permitted by law, such as to comply with a subpoena or similar legal process, and when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
 
-###Retention of information
+### Retention of information
 -----------
 
 We will retain and use your Personal Information for the period necessary to comply with our legal obligations, as long as your user account remains active, to enforce our agreements, resolve disputes, and unless a longer retention period is required or permitted by law.
