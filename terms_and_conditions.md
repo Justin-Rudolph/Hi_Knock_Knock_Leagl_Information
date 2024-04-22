@@ -1,7 +1,7 @@
 Terms and Conditions
 ----------------
 
-### Last updated on March 1, 2024
+### Last updated on April 22, 2024
 -----------
 
 These terms and conditions (“Agreement”) set forth the general terms and conditions of your use of the “Hi Knock Knock” mobile application (“Mobile Application” or “Service”) and any related products and services, including the website https://www.hiknockknock.com (collectively, “Services”). This Agreement is legally binding between you (“User”, “you” or “your”) and EHP Properties LLC, doing business as Hi Knock Knock (“EHP Properties LLC”, “we”, “us” or “our”). If you are entering into this agreement on behalf of a business or other legal entity, you represent that you have the authority to bind such entity to this agreement, in which case the terms “User”, “you” or “your” shall refer to such entity. If you do not have such authority, or if you do not agree with the terms of this agreement, you must not accept this agreement and may not access and use the Mobile Application and Services. By accessing and using the Mobile Application and Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Agreement. You acknowledge that this Agreement is a contract between you and EHP Properties LLC, even though it is electronic and is not physically signed by you, and it governs your use of the Mobile Application and Services.
