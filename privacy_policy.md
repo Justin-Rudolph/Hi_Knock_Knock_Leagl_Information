@@ -54,6 +54,8 @@ Processing your Personal Information depends on how you interact with the Mobile
 
 Note that under some legislations we may be allowed to process information until you object to such processing by opting out, without having to rely on consent or any other of the legal bases. In any case, we will be happy to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Information is a statutory or contractual requirement, or a requirement necessary to enter into a contract.
 
+We are committed to maintaining a respectful community. We do not tolerate the use of our service for harassment, spam, phishing, pranks, or abusive messaging. We reserve the right to terminate the accounts of users found violating this principle.
+
 ### Managing information
 -----------
 
