@@ -24,7 +24,33 @@ Although the Mobile Application and Services may link to other resources (such a
 ### Prohibited uses
 -----------
 
-In addition to other terms as set forth in the Agreement, you are prohibited from using the Mobile Application and Services or Content: (a) for any unlawful purpose; (b) to solicit others to perform or participate in any unlawful acts; (c) to violate any international, federal, provincial or state regulations, rules, laws, or local ordinances; (d) to infringe upon or violate our intellectual property rights or the intellectual property rights of others; (e) to harass, abuse, insult, harm, defame, slander, disparage, intimidate, or discriminate based on gender, sexual orientation, religion, ethnicity, race, age, national origin, or disability; (f) to submit false or misleading information; (g) to upload or transmit viruses or any other type of malicious code that will or may be used in any way that will affect the functionality or operation of the Mobile Application or Services, third party products and services, or the Internet; (h) to spam, phish, pharm, pretext, spider, crawl, or scrape; (i) for any obscene or immoral purpose; or (j) to interfere with or circumvent the security features of the Mobile Application or Services, third party products and services, or the Internet. We reserve the right to terminate your use of the Mobile Application and Services for violating any of the prohibited uses.
+In addition to other terms as set forth in the Agreement, you are prohibited from using the Mobile Application and Services or Content: 
+
+(a) for any unlawful purpose; 
+
+(b) to solicit others to perform or participate in any unlawful acts; 
+
+(c) to violate any international, federal, provincial or state regulations, rules, laws, or local ordinances; 
+
+(d) to infringe upon or violate our intellectual property rights or the intellectual property rights of others; 
+
+(e) to harass, abuse, insult, harm, defame, slander, disparage, intimidate, or discriminate based on gender, sexual orientation, religion, ethnicity, race, age, national origin, or disability; 
+
+(f) to submit false or misleading information; 
+
+(g) to upload or transmit viruses or any other type of malicious code that will or may be used in any way that will affect the functionality or operation of the Mobile Application or Services, third party products and services, or the Internet; 
+
+(h) to spam, phish, pharm, pretext, spider, crawl, or scrape; 
+
+(i) using the service for prank messages or any form of deception; 
+
+(j) for any other activity that might harm another person or violate local, state, or national laws; 
+
+(k) for any obscene or immoral purpose; or 
+
+(l) to interfere with or circumvent the security features of the Mobile Application or Services, third party products and services, or the Internet.
+
+We reserve the right to terminate your use of the Mobile Application and Services for violating any of the prohibited uses.
 
 ### Intellectual property rights
 -----------
