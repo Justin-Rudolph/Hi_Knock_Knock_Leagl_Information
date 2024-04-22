@@ -1,7 +1,7 @@
 Privacy Policy  
 ----------------
 
-### Last updated on March 1, 2024
+### Last updated on April 22, 2024
 -----------
 
 We respect your privacy and are committed to protecting it through our compliance with this privacy policy (“Policy”). This Policy describes the types of information we may collect from you or that you may provide (“Personal Information”) in the “Hi Knock Knock” mobile application (“Mobile Application” or “Service”) and any of its related products and services (collectively, “Services”), and our practices for collecting, using, maintaining, protecting, and disclosing that Personal Information. It also describes the choices available to you regarding our use of your Personal Information and how you can access and update it.
